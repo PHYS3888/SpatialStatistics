@@ -1,2 +1,5 @@
-# SpatialStatistics
-test code on spatial statistics of images
+# Spatial Statistics Demo
+
+Test code on spatial statistics of images.
+
+(poorly commented).
